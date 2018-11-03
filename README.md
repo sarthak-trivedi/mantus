@@ -10,6 +10,6 @@ $ gcc mantus.c
 ```
 #### Decryption : 
 ```
-$ gcc mantus_decrpter.c
+$ gcc mantus_decrypter.c
 ./a.out
 ```
