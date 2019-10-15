@@ -13,3 +13,7 @@ $ gcc mantus.c
 $ gcc mantus_decrypter.c
 ./a.out
 ```
+
+### How to change encryption key 
+
+edit enc.txt for changing encrytion key
